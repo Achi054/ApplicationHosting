@@ -1,2 +1,2 @@
 # Application Hosting
-Hosting an application in Azure
+Hosting a web application in Azure
